@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognititon
+# Hand-Gesture-Recognition
